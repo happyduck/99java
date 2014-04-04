@@ -7,14 +7,12 @@ This README is restructured version of [ocaml.org-99problems] (http://ocaml.org/
 
 Though the problems number from 1 to 99, there are some gaps and some additions marked with letters. 
 
-#Arithmetic
+##Arithmetic
 
 1. Determine whether a given integer number is prime. (medium)
-
 2. Determine the greatest common divisor of two positive integer numbers. (medium)
 
 Use Euclid's algorithm.
-
 3. Determine whether two positive integer numbers are coprime. (easy)
 
 Two numbers are coprime if their greatest common divisor equals 1.
@@ -49,7 +47,7 @@ Given a range of integers by its lower and upper limit, print a list of all even
 
 In most cases, if an even number is written as the sum of two prime numbers, one of them is very small. Very rarely, the primes are both bigger than say 50. Try to find out how many such cases there are in the range 2..3000.
 
-#Binary Trees
+##Binary Trees
 
 A binary tree is either empty or it is composed of a root element and two successors, which are binary trees themselves.
 
