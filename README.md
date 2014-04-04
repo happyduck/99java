@@ -25,25 +25,25 @@ Euler's so-called totient function φ(m) is defined as the number of positive in
 
 Find out what the value of φ(m) is if m is a prime number. Euler's totient function plays an important role in one of the most widely used public key cryptography methods (RSA). In this exercise you should use the most primitive method to calculate this function (there are smarter ways that we shall discuss later).
 
-5. Determine the prime factors of a given positive integer. (medium)
+##### 5. Determine the prime factors of a given positive integer. (medium)
 
 Construct a flat list containing the prime factors in ascending order.
 
-6. Determine the prime factors of a given positive integer (2). (medium)
+##### 6. Determine the prime factors of a given positive integer (2). (medium)
 
 Construct a list containing the prime factors and their multiplicity. Hint: The problem is similar to problem Run-length encoding of a list (direct solution).
 
-7. Calculate Euler's totient function φ(m) (improved). (medium)
+##### 7. Calculate Euler's totient function φ(m) (improved). (medium)
 
-8. Compare the two methods of calculating Euler's totient function. (easy)
+##### 8. Compare the two methods of calculating Euler's totient function. (easy)
 
-9. A list of prime numbers. (easy)
+##### 9. A list of prime numbers. (easy)
 
 Given a range of integers by its lower and upper limit, construct a list of all prime numbers in that range.
 
-10. Goldbach's conjecture. (medium)
+##### 10. Goldbach's conjecture. (medium)
 
-11. A list of Goldbach compositions. (medium)
+##### 11. A list of Goldbach compositions. (medium)
 
 Given a range of integers by its lower and upper limit, print a list of all even numbers and their Goldbach composition.
 
