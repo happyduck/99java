@@ -1,7 +1,7 @@
 99 problems in Java
 ======
 
-This is a Java version of the 99 problems. The 99 problems also have [OCaml version](https://github.com/MassD/99), [Lisp version] (http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html).
+This is a Java version of the 99 problems. The 99 problems also have [OCaml version](https://github.com/MassD/99), [Lisp version] (http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html), etc.
 
 This README is restructured version of [ocaml.org-99problems] (http://ocaml.org/learn/tutorials/99problems.html).
 
@@ -14,8 +14,8 @@ Though the problems number from 1 to 99, there are some gaps and some additions 
 2. Determine the greatest common divisor of two positive integer numbers. (medium)
 Use Euclid's algorithm.
 
-3. Determine whether two positive integer numbers are coprime. (easy)
-Two numbers are coprime if their greatest common divisor equals 1.
+3. Determine whether two positive integer numbers are coprime. (easy) 
+Two numbers are coprime if their greatest common divisor equals 1. 
 
 4. Calculate Euler's totient function φ(m). (medium)
 
