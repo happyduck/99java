@@ -12,6 +12,7 @@ Though the problems number from 1 to 99, there are some gaps and some additions 
 1. Determine whether a given integer number is prime. (medium)
 
 2. Determine the greatest common divisor of two positive integer numbers. (medium)
+
 Use Euclid's algorithm.
 
 3. Determine whether two positive integer numbers are coprime. (easy) 
