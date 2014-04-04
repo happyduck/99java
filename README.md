@@ -9,16 +9,17 @@ Though the problems number from 1 to 99, there are some gaps and some additions 
 
 ##Arithmetic
 
-1. Determine whether a given integer number is prime. (medium)
+##### 1. Determine whether a given integer number is prime. (medium)
 
-2. Determine the greatest common divisor of two positive integer numbers. (medium)
+##### 2. Determine the greatest common divisor of two positive integer numbers. (medium)
 
 Use Euclid's algorithm.
 
-3. Determine whether two positive integer numbers are coprime. (easy) 
+##### 3. Determine whether two positive integer numbers are coprime. (easy) 
+
 Two numbers are coprime if their greatest common divisor equals 1. 
 
-4. Calculate Euler's totient function φ(m). (medium)
+##### 4. Calculate Euler's totient function φ(m). (medium)
 
 Euler's so-called totient function φ(m) is defined as the number of positive integers r (1 ≤ r < m) that are coprime to m. We let φ(1) = 1.
 
