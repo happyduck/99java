@@ -3,7 +3,7 @@
 
 This is a Java version of the 99 problems. The 99 problems also have [OCaml version](https://github.com/MassD/99), [Lisp version] (http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html), etc.
 
-This README is restructured version of [ocaml.org-99problems] (http://ocaml.org/learn/tutorials/99problems.html).
+This README is modified version of [ocaml.org-99problems] (http://ocaml.org/learn/tutorials/99problems.html).
 
 Though the problems number from 1 to 99, there are some gaps and some additions marked with letters. 
 
